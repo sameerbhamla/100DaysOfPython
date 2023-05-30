@@ -6,4 +6,5 @@ numOfPeople = input("How many people to split the bill? ")
 
 amtPerPerson = (float(total) / int(numOfPeople)) * tipPercent
 amtPerPerson = round(amtPerPerson,2)
+amtPerPerson = "{:.2f}".format(amtPerPerson)
 print(f"Each person should pay: ${amtPerPerson}")
