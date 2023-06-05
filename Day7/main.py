@@ -17,7 +17,7 @@ def checkifwon(display, chosenWord):
 print(hangman_art.logo)
 lives = 6
 chosen_word = random.choice(hangman_words.word_list)
-print(chosen_word)
+#print(chosen_word)
 guessed_letters = []
 display = []
 gameNotOver = True
@@ -58,6 +58,7 @@ while gameNotOver:
                 print(hangman_art.stages[lives])
                 print(display)
                 print("You Lose")
+                print(f"The word was {chosen_word}")
                 quit()
 
             # If lives is not zero print the updated hangman stage and the display again
