@@ -9,6 +9,7 @@ def format_accounts(account):
     account_country = account["country"]
     return f"{account_name}, a {account_description}, from {account_country}"
 
+
 def compare_accounts(account1, account2):
     account1_followers = account1["follower_count"]
     account2_followers = account2["follower_count"]
@@ -38,6 +39,3 @@ while game_is_on:
     else:
         print("Wrong! Game Over!")
         exit()
-
-
-
