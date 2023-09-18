@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54142263-38ea-4888-a07b-8aa84b1f57f5" name="Changes" comment="" />
+    <list default="true" id="8f3fdc15-2b3d-4d93-92fe-bb91c724a2ff" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,25 +13,15 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2QzvntLp2fBgTjt6DeNrgywF1Po" />
+  <component name="ProjectId" id="2R1cz0zV4jS1pBKsMbXYrejeRSN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/samee/Documents/GitHub/100DaysOfPython/Day10&quot;
-  }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\samee\Documents\GitHub\100DaysOfPython\Day10" />
-    </key>
-  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Day10" />
+      <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -55,11 +45,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="54142263-38ea-4888-a07b-8aa84b1f57f5" name="Changes" comment="" />
-      <created>1686369394741</created>
+      <changelist id="8f3fdc15-2b3d-4d93-92fe-bb91c724a2ff" name="Changes" comment="" />
+      <created>1686421287006</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1686369394741</updated>
+      <updated>1686421287006</updated>
     </task>
     <servers />
   </component>
