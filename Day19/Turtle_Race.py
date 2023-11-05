@@ -47,6 +47,7 @@ turtle6.color(colors[5])
 turtle6.penup()
 turtle6.goto(pos6)
 '''
+
 all_turtles = []
 
 for turtle_index in range(6):
