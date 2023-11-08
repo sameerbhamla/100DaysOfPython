@@ -1,7 +1,6 @@
 def f(x):
-    n = len(x)
-    for i in range(n,-1):
-        x[n-i],x[i] = x[i],x[n-i]
+    for i in range(len(x)):
+        x[i],x[len(x)-1] = x[len(x)-1],x[i]
     return x
 
 
@@ -10,7 +9,8 @@ def lists(*x):
 
 
 def test(x):
-    return x.sorted(key=lambda x: (sum(x))//2)
+    pass
+ #   return x.sort(lambda key: average(key))
 
 a = [1,2,3,4,5]
 print(f(a))
