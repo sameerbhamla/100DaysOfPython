@@ -1,6 +1,6 @@
 def f(x):
-    for i in range(len(x)):
-        x[i],x[len(x)-1] = x[len(x)-1],x[i]
+    for i in range(len(x)//2):
+        x[i],x[-(i+1)] = x[-(i+1)],x[i]
     return x
 
 
