@@ -1,1 +1,0 @@
-file = open('myfile.txt','r')
