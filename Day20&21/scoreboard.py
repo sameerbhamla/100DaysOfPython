@@ -8,8 +8,7 @@ class ScoreBoard(Turtle):
     def __init__(self):
         super().__init__()
         self.score = 0
-        with open('C:\\Users\\Sameer\\Documents\\GitHub\\100DaysOfPython\\Day20&21\\data.txt') as data:
-            self.high_score = int(data.read())
+        self.high_score = 0
         self.color('white')
         self.penup()
         self.hideturtle()
