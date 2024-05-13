@@ -2,6 +2,7 @@ import requests
 from datetime import datetime
 import os
 
+
 APP_ID = os.environ["NT_APP_ID"]
 API_KEY = os.environ["NT_API_KEY"]
 
